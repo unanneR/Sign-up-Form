@@ -1,0 +1,17 @@
+#split-screen{
+    display: flex;
+    height: 100vh;
+}
+
+.left-side{
+    background-image: url('../Sign-up-Form/images/background fern.avif');
+    flex: 1;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+}
+
+.right-side{
+    flex: 1;
+    display: flex;
+}
